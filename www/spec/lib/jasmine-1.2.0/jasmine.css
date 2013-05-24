@@ -78,4 +78,8 @@ body { background-color: #eeeeee; padding: 0; margin: 5px; overflow-y: scroll; }
 #TrivialReporter .finished-at { padding-left: 1em; font-size: .6em; }
 #TrivialReporter.show-passed .passed, #TrivialReporter.show-skipped .skipped { display: block; }
 #TrivialReporter #jasmine_content { position: fixed; right: 100%; }
+<<<<<<< HEAD
 #TrivialReporter .runner { border: 1px solid gray; display: block; margin: 5px 0; padding: 2px 0 2px 10px; }
+=======
+#TrivialReporter .runner { border: 1px solid gray; display: block; margin: 5px 0; padding: 2px 0 2px 10px; }
+>>>>>>> branch 'master' of git://github.com/phonegap/phonegap-start.git
